@@ -1,0 +1,21 @@
+.contenedor{
+    width: 700px;
+    height: 700px;
+   margin: 0 auto;
+    background: gray;
+    padding: 10px;
+   
+    
+
+}
+#image {
+    width:150px;
+    height: 150px;
+    margin-right: 80px;
+    margin-bottom: 500px 0
+   
+}
+input,textarea{
+    display: block;
+    margin-bottom: 10px;
+}
